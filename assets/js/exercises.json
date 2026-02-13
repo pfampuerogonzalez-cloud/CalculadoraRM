@@ -1,0 +1,26 @@
+[
+    {
+        "id": "bench-press",
+        "name": "Press de Banca",
+        "image": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=200&h=200&fit=crop",
+        "category": "Pecho"
+    },
+    {
+        "id": "squat",
+        "name": "Sentadilla Libre",
+        "image": "https://images.unsplash.com/photo-1574680096145-d05b474e2155?w=200&h=200&fit=crop",
+        "category": "Pierna"
+    },
+    {
+        "id": "deadlift",
+        "name": "Peso Muerto",
+        "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=200&h=200&fit=crop",
+        "category": "Espalda/Pierna"
+    },
+    {
+        "id": "overhead-press",
+        "name": "Press Militar",
+        "image": "https://images.unsplash.com/photo-1541534741688-6078c65b5a33?w=200&h=200&fit=crop",
+        "category": "Hombro"
+    }
+]
