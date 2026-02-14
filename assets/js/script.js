@@ -1,7 +1,8 @@
 const exercises = [
-    { id: 1, name: "Press de Banca", img: "https://images.unsplash.com/photo-1534367958379-246df1ad0427?q=80&w=400&h=300&fit=crop" },
+    { id: 1, name: "Press de Banca", img: "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=200&h=200&fit=crop" },
     { id: 2, name: "Sentadilla", img: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=80&w=400&h=300&fit=crop" },
     { id: 3, name: "Peso Muerto", img: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=400&h=300&fit=crop" }
+  
 ];
 
 document.addEventListener('DOMContentLoaded', () => {
